@@ -11,7 +11,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 sectionList = []
 
-
 # returns the unique semester identifier
 
 def getSemester():
